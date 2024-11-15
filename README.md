@@ -90,7 +90,7 @@ Maintainer: [@KatTraxler](https://twitter.com/nightmareJs)
 
 
 ### Similar projects 
-- [Status Red Team](https://stratus-red-team.cloud) by DataDog
+- [Stratus Red Team](https://stratus-red-team.cloud) by DataDog
 - [CNAPPGoat](https://github.com/ermetic-research/cnappgoat) by Ermetic
 - [Atomic Red Team](https://github.com/redcanaryco/atomic-red-team) by Red Canary
 - [Leonidas](https://github.com/FSecureLABS/leonidas) by F-Secure
